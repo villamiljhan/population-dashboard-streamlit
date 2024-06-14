@@ -11,3 +11,6 @@ A dashboard web app template built in Python using Streamlit.
 
 ## Prerequisite libraries
 Here are the Python libraries used in the creation of this dashboard app
+
+## Author
+villamiljhan
